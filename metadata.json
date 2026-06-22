@@ -1,0 +1,6 @@
+{
+  "name": "PPDB Online - Pendaftaran Siswa Baru",
+  "description": "Aplikasi Pendaftaran Siswa Baru (PPDB) Web dan Android dengan panduan integrasi database MySQL & XAMPP",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
